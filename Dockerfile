@@ -1,4 +1,4 @@
-FROM ubi9/python-311
+FROM mikespub/sclorg-flask-ex:ubi9-python311
 
 COPY . /san-exporter
 
