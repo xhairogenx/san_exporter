@@ -1,4 +1,4 @@
-FROM centos/python-36-centos7
+FROM ubi9/python-311
 
 COPY . /san-exporter
 
